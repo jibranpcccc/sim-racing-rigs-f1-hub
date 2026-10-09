@@ -4,10 +4,17 @@
     <title>Sim Racing &amp; F1 League Racers Hub</title>
     <link>https://sim-racing-rigs-f1-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 08 Oct 2026 06:01:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 06:01:53 GMT</lastBuildDate>
     <atom:link href="https://sim-racing-rigs-f1-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                    <item>
+                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: r/aws Cloud Architects (Reddit)</title>
+      <link>https://www.reddit.com/r/aws/</link>
+      <guid isPermaLink="false">https://sim-racing-rigs-f1-hub.netlify.app/#sim-racing-rigs-f1-hub-reddit-20261009-1-2026-10-09</guid>
+      <pubDate>Fri, 09 Oct 2026 06:01:53 GMT</pubDate>
+      <description>Newly verified community added to Sim Racing &amp; F1 League Racers Hub: Community of AWS certified solutions architects and engineers discussing ECS, Lambda, IAM, and cost optimization.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/docker Containers (Reddit)</title>
       <link>https://www.reddit.com/r/docker/</link>
       <guid isPermaLink="false">https://sim-racing-rigs-f1-hub.netlify.app/#sim-racing-rigs-f1-hub-reddit-20261008-1-2026-10-08</guid>
@@ -174,12 +181,6 @@
       <guid isPermaLink="false">https://sim-racing-rigs-f1-hub.netlify.app/#sim-racing-rigs-f1-hub-forum-20260913-1-2026-09-13</guid>
       <pubDate>Sun, 13 Sep 2026 08:30:43 GMT</pubDate>
       <description>Newly verified community added to Sim Racing &amp; F1 League Racers Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
-    </item>
-<item>
-      <title>Sim Racing &amp; F1 League Racers Hub Initial Release</title>
-      <link>https://sim-racing-rigs-f1-hub.netlify.app/</link>
-      <pubDate>Tue, 08 Sep 2026 06:42:35 GMT</pubDate>
-      <description>Initial collection of verified communities published.</description>
     </item>
   </channel>
 </rss>
