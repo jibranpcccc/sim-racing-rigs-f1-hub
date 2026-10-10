@@ -4,10 +4,17 @@
     <title>Sim Racing &amp; F1 League Racers Hub</title>
     <link>https://sim-racing-rigs-f1-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 09 Oct 2026 06:01:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 06:01:44 GMT</lastBuildDate>
     <atom:link href="https://sim-racing-rigs-f1-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                        <item>
+                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Kubernetes Community Discord (Discord)</title>
+      <link>https://discuss.kubernetes.io</link>
+      <guid isPermaLink="false">https://sim-racing-rigs-f1-hub.netlify.app/#sim-racing-rigs-f1-hub-discord-20261010-1-2026-10-10</guid>
+      <pubDate>Sat, 10 Oct 2026 06:01:44 GMT</pubDate>
+      <description>Newly verified community added to Sim Racing &amp; F1 League Racers Hub: Dedicated server for cloud-native infrastructure engineers building, deploying, and scaling on Kubernetes.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/aws Cloud Architects (Reddit)</title>
       <link>https://www.reddit.com/r/aws/</link>
       <guid isPermaLink="false">https://sim-racing-rigs-f1-hub.netlify.app/#sim-racing-rigs-f1-hub-reddit-20261009-1-2026-10-09</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://sim-racing-rigs-f1-hub.netlify.app/#sim-racing-rigs-f1-hub-reddit-20260913-1-2026-09-13</guid>
       <pubDate>Sun, 13 Sep 2026 14:03:15 GMT</pubDate>
       <description>Newly verified community added to Sim Racing &amp; F1 League Racers Hub: Premier forum for machine learning research, theoretical papers, benchmark debates, and open-source models.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
-      <link>https://dev.to/t/webdev</link>
-      <guid isPermaLink="false">https://sim-racing-rigs-f1-hub.netlify.app/#sim-racing-rigs-f1-hub-forum-20260913-1-2026-09-13</guid>
-      <pubDate>Sun, 13 Sep 2026 08:30:43 GMT</pubDate>
-      <description>Newly verified community added to Sim Racing &amp; F1 League Racers Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
     </item>
   </channel>
 </rss>
