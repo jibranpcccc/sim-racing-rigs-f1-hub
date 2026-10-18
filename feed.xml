@@ -4,10 +4,17 @@
     <title>Sim Racing &amp; F1 League Racers Hub</title>
     <link>https://sim-racing-rigs-f1-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 17 Oct 2026 06:01:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 06:01:44 GMT</lastBuildDate>
     <atom:link href="https://sim-racing-rigs-f1-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                <item>
+                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: r/homelab Infrastructure Guild (Reddit)</title>
+      <link>https://www.reddit.com/r/homelab/</link>
+      <guid isPermaLink="false">https://sim-racing-rigs-f1-hub.netlify.app/#sim-racing-rigs-f1-hub-reddit-20261018-1-2026-10-18</guid>
+      <pubDate>Sun, 18 Oct 2026 06:01:44 GMT</pubDate>
+      <description>Newly verified community added to Sim Racing &amp; F1 League Racers Hub: Showcase and support forum for homelab builders running enterprise rack servers, Proxmox hypervisors, ZFS storage, and 10GbE networking.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/selfhosted Sovereign Cloud (Reddit)</title>
       <link>https://www.reddit.com/r/selfhosted/</link>
       <guid isPermaLink="false">https://sim-racing-rigs-f1-hub.netlify.app/#sim-racing-rigs-f1-hub-reddit-20261017-1-2026-10-17</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://sim-racing-rigs-f1-hub.netlify.app/#sim-racing-rigs-f1-hub-discord-20260918-1-2026-09-18</guid>
       <pubDate>Fri, 18 Sep 2026 06:15:46 GMT</pubDate>
       <description>Newly verified community added to Sim Racing &amp; F1 League Racers Hub: Official community server for OpenAI developers, GPT API architectures, assistants, and generative model updates.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/simracing Rig Builders &amp; Drivers (Reddit)</title>
-      <link>https://www.reddit.com/r/simracing/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/sim-racing-rigs-f1-hub/#sim-racing-rigs-f1-hub-reddit-20260915-1-2026-09-15</guid>
-      <pubDate>Tue, 15 Sep 2026 11:17:08 GMT</pubDate>
-      <description>Newly verified community added to Sim Racing Rigs F1 Hub: The definitive subreddit for virtual motorsport, direct-drive wheelbase comparisons, load cell pedals, aluminum profile rigs, and iRacing leagues.</description>
     </item>
   </channel>
 </rss>
