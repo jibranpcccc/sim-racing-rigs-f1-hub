@@ -4,10 +4,17 @@
     <title>Sim Racing &amp; F1 League Racers Hub</title>
     <link>https://sim-racing-rigs-f1-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 25 Nov 2026 07:20:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:01:59 GMT</lastBuildDate>
     <atom:link href="https://sim-racing-rigs-f1-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Python Developers Telegram Channel (Telegram)</title>
+      <link>https://t.me/python_scripts</link>
+      <guid isPermaLink="false">https://sim-racing-rigs-f1-hub.netlify.app/#sim-racing-f1-league-racers-hub-telegram-9-2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 06:01:59 GMT</pubDate>
+      <description>Newly verified community added to Sim Racing &amp; F1 League Racers Hub: Curated daily Python scripts, architectural patterns, release alerts, and performance optimization guides.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Python Official Discord (Discord)</title>
       <link>https://discord.gg/python</link>
       <guid isPermaLink="false">https://sim-racing-rigs-f1-hub.netlify.app/#sim-racing-f1-league-racers-hub-discord-8-2026-11-25</guid>
@@ -173,13 +180,6 @@
       <link>https://discord.gg/linux</link>
       <guid isPermaLink="false">https://sim-racing-rigs-f1-hub.netlify.app/#sim-racing-rigs-f1-hub-discord-20261023-1-2026-10-27</guid>
       <pubDate>Tue, 27 Oct 2026 06:01:51 GMT</pubDate>
-      <description>Newly verified community added to Sim Racing &amp; F1 League Racers Hub: Real-time support server for Linux server administration, bash scripting, systemd configurations, and package management.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Linux Users Community Discord (Discord)</title>
-      <link>https://discord.gg/linux</link>
-      <guid isPermaLink="false">https://sim-racing-rigs-f1-hub.netlify.app/#sim-racing-rigs-f1-hub-discord-20261023-1-2026-10-26</guid>
-      <pubDate>Mon, 26 Oct 2026 06:45:53 GMT</pubDate>
       <description>Newly verified community added to Sim Racing &amp; F1 League Racers Hub: Real-time support server for Linux server administration, bash scripting, systemd configurations, and package management.</description>
     </item>
   </channel>
